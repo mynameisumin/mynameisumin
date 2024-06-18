@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="![image](https://github.com/mynameisumin/mynameisumin/assets/108667311/6f9c9770-1b5a-43ad-a945-3e5aab57ea39)
+" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisumin)](https://github.com/anuraghazra/github-readme-stats)
